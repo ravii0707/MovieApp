@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tixora.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+602ea02af7cb7283b0716ac2e0ad30e19a4ece9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tixora.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tixora.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
