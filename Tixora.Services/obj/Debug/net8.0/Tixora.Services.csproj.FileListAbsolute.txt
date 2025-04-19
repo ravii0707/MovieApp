@@ -1,0 +1,11 @@
+C:\Learning\CSharp\Training\Tixora\Tixora.Services\bin\Debug\net8.0\Tixora.Services.deps.json
+C:\Learning\CSharp\Training\Tixora\Tixora.Services\bin\Debug\net8.0\Tixora.Services.dll
+C:\Learning\CSharp\Training\Tixora\Tixora.Services\bin\Debug\net8.0\Tixora.Services.pdb
+C:\Learning\CSharp\Training\Tixora\Tixora.Services\obj\Debug\net8.0\Tixora.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\CSharp\Training\Tixora\Tixora.Services\obj\Debug\net8.0\Tixora.Services.AssemblyInfoInputs.cache
+C:\Learning\CSharp\Training\Tixora\Tixora.Services\obj\Debug\net8.0\Tixora.Services.AssemblyInfo.cs
+C:\Learning\CSharp\Training\Tixora\Tixora.Services\obj\Debug\net8.0\Tixora.Services.csproj.CoreCompileInputs.cache
+C:\Learning\CSharp\Training\Tixora\Tixora.Services\obj\Debug\net8.0\Tixora.Services.dll
+C:\Learning\CSharp\Training\Tixora\Tixora.Services\obj\Debug\net8.0\refint\Tixora.Services.dll
+C:\Learning\CSharp\Training\Tixora\Tixora.Services\obj\Debug\net8.0\Tixora.Services.pdb
+C:\Learning\CSharp\Training\Tixora\Tixora.Services\obj\Debug\net8.0\ref\Tixora.Services.dll
